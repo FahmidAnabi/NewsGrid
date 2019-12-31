@@ -172,7 +172,7 @@ h6 {
   color: var(--primary-color) !important;
 }
 
-.l-heading{
+.l-heading {
   font-size: 3rem;
 }
 /* Inner page container */
@@ -289,8 +289,7 @@ a.current {
   grid-column: 2 / span 2;
 }
 
-
-.meta{
+.meta {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -298,7 +297,7 @@ a.current {
   padding: 0.5rem;
 }
 
-.category{
+.category {
   margin-top: 0.4rem;
 }
 
@@ -337,4 +336,7 @@ a.current {
 
 .my-name {
   color: var(--secondary-color) !important;
+  font-family: "Staatliches", cursive;
+  word-spacing: 2px;
+  letter-spacing: 3px;
 }
